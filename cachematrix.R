@@ -22,7 +22,7 @@ makeCacheMatrix <- function(x = matrix()) {
 #m <- makeCacheMatrix() an invertible matrix using the m$set() function that is nested 
 # in makeCacheMatrix(). In this syntax, the variable "m" can be any letter. 
 
-# cacheSolve returns the inverted form of input matrix.
+# cacheSolve returns the inverted form of input matrix
  
 # When cacheSolve is called its checks to see if there already exists a non-NULL value for m. 
 
